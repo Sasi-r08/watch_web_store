@@ -1,10 +1,17 @@
+WEB HOSTING:
+-----------------------------------------------------------------------------------------------
+Live Web Hosting:   https://sasi-r08.github.io/watch_web_store/Watch_Web_Store
+        
+
 🕒 Watch Web Store— Premium Watches Collection
+-----------------------------------------------------------------------------------------------
         
   A modern e-commerce web page for browsing, filtering, and purchasing watches.
   
   Built entirely with HTML, CSS, and JavaScript — no backend required.
 
 🚀 Features
+-----------------------------------------------------------------------------------------------
 
   🛍️ Product Display: View premium men’s and women’s watches.
   
@@ -20,8 +27,8 @@
   
   📊 Dashboard & Orders: View placed orders saved in browser storage.
   
-
 🗂️ File Structure
+-----------------------------------------------------------------------------------------------
 
  Watch_Web_Store/
  
@@ -35,6 +42,7 @@
 
 
 ⚙️ How to Run
+-----------------------------------------------------------------------------------------------
 
   1. Download or clone the project folder.
      
@@ -52,6 +60,7 @@
         *  Place mock orders.
 
 💡 Notes
+-----------------------------------------------------------------------------------------------
 
   * No backend/database is needed — all operations use browser localStorage.
     
@@ -61,6 +70,7 @@
     
 
 🧑‍💻 Developer Info
+-----------------------------------------------------------------------------------------------
 
   * Project Name: Wonder Watche's
     
