@@ -82,3 +82,10 @@ Live Web Hosting:   https://sasi-r08.github.io/watch_web_store/Watch_Web_Store
   * IDE Recommended: VS Code
 
 
+GETTING INTO THE PROJECT:
+-----------------------------------------------------------------------------------------------
+<img width="1366" height="649" alt="image" src="https://github.com/user-attachments/assets/6a73218a-2b2d-435b-959f-d1d1e8a1422a" />
+
+
+
+
